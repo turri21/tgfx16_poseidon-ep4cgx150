@@ -5,9 +5,9 @@ The CD-ROM System BIOS for PC Engine / TurboGrafx-16 is required only for CD bas
 
 Rename it to tgfx16.rom and place it at the root of the SD card or inside the tgfx16 folder. 
 
-You could even rename it to whatever name you prefer adding the .pce extension. For example, cdrombios.pce and
+You could even rename it to whatever name you prefer adding the .pce extension. 
 
-load it as a normal cartridge whenever you want to use the CD BIOS.
+For example, cdrombios.pce and load it as a normal cartridge whenever you want to use the CD BIOS.
 
 ___
 # Information
