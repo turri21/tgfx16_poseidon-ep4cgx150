@@ -1,0 +1,5 @@
+set_global_assignment -name SDC_FILE tgfx16_poseidon-ep4cgx150.sdc
+set_global_assignment -name QIP_FILE ../rtl/shared/tgfx16.qip
+set_global_assignment -name SYSTEMVERILOG_FILE ../tgfx16.sv
+set_global_assignment -name QIP_FILE pll.qip
+
